@@ -1,15 +1,15 @@
 {
     "projects": [{
-            "image": "images/projects/portfolio-poster.png",
+            "image": "images/projects/wendy.jpg",
             "title": "Responsive Website",
             "bodyText": "Created a website that is fully responsive across different devices and screen sizes using CSS media queries and a mobile-first approach.",
             "links": [{
                     "text": "GitHub",
-                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                    "href": "https://github.com/OndigoWendy"
                 },
                 {
                     "text": "Live",
-                    "href": "https://mayankagarwal.me"
+                    "href": "https://github.com/OndigoWendy"
                 }
             ],
             "tags": [
@@ -19,16 +19,16 @@
             ]
         },
         {
-            "image": "images/projects/caaring-poster.png",
+            "image": "images/projects/wendy.jpg",
             "title": "Single Page Application",
             "bodyText": "- Built a single page application using React and Redux for state management. Implemented routing using React Router.",
             "links": [{
                     "text": "Github",
-                    "href": "https://github.com/mayankagarwal09/Caaring"
+                    "href": "https://github.com/OndigoWendy"
                 },
                 {
                     "text": "Live",
-                    "href": "http://caaring.herokuapp.com"
+                    "href": "https://github.com/OndigoWendy"
                 }
             ],
             "tags": [
@@ -38,12 +38,12 @@
             ]
         },
         {
-            "image": "images/projects/quiet-hours-poster.jpg",
+            "image": "images/projects/wendy.jpg",
             "title": "Accessibility Audit",
             "bodyText": "- Conducted an accessibility audit of a client's website and provided recommendations for improvements. Utilized tools such as Lighthouse and aXe to identify and fix accessibility issues.",
             "links": [{
                 "text": "GitHub",
-                "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+                "href": "https://github.com/OndigoWendy"
             }],
             "tags": [
                 "Accessibilty",
@@ -52,12 +52,12 @@
             ]
         },
         {
-            "image": "images/projects/quiet-hours-poster.jpg",
+            "image": "images/projects/wendy.jpg",
             "title": "GraphQL API",
             "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
             "links": [{
                 "text": "GitHub",
-                "href": "https://github.com/mayankagarwal09/SecureChatApp"
+                "href": "https://github.com/OndigoWendy"
             }],
             "tags": [
                 "GraphQL",
@@ -67,12 +67,12 @@
             ]
         },
         {
-            "image": "images/projects/quiet-hours-poster.jpg",
+            "image": "images/projects/wendy.jpg",
             "title": "Data Visualization",
             "bodyText": "Created a data visualization using D3.js to display data in a visually appealing and interactive way.",
             "links": [{
                 "text": "GitHub",
-                "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
+                "href": "https://github.com/OndigoWendy"
             }],
             "tags": [
                 "D3.js",
@@ -81,12 +81,12 @@
             ]
         },
         {
-            "image": "images/projects/quiet-hours-poster.jpg",
+            "image": "images/projects/wendy.jpg",
             "title": "A single page application",
             "bodyText": "- Create a single page application that loads different content dynamically without refreshing the page",
             "links": [{
                 "text": "GitHub",
-                "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
+                "href": "https://github.com/OndigoWendy"
             }],
             "tags": [
                 "HTML",
@@ -97,12 +97,12 @@
             ]
         },
         {
-            "image": "images/projects/quiet-hours-poster.jpg",
+            "image": "images/projects/wendy.jpg",
             "title": "A mobile app prototype",
             "bodyText": "-Design and build a prototype for a mobile app using a tool like Figma or Adobe XD",
             "links": [{
                 "text": "GitHub",
-                "href": "https://github.com/mayankagarwal09/task-tracker-app"
+                "href": "https://github.com/OndigoWendy"
             }],
             "tags": [
                 "UI/UX design",
@@ -110,12 +110,12 @@
             ]
         },
         {
-            "image": "images/projects/quiet-hours-poster.jpg",
+            "image": "images/projects/wendy.jpg",
             "title": "A form validation script",
             "bodyText": "- Write a JavaScript script that checks for errors in a form submission and displays error messages to the user",
             "links": [{
                 "text": "GitHub",
-                "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                "href": "https://github.com/OndigoWendy"
             }],
             "tags": [
                 "HTML",
@@ -125,12 +125,12 @@
             ]
         },
         {
-            "image": "images/projects/quiet-hours-poster.jpg",
+            "image": "images/projects/wendy.jpg",
             "title": "A website with accessible design",
             "bodyText": "- Design and develop a website with accessibility in mind, following principles such as proper use of semantic HTML and high contrast color schemes",
             "links": [{
                 "text": "GitHub",
-                "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                "href": "https://github.com/OndigoWendy"
             }],
             "tags": [
                 "HTML",
@@ -139,12 +139,12 @@
             ]
         },
         {
-            "image": "images/projects/quiet-hours-poster.jpg",
+            "image": "images/projects/wendy.jpg",
             "title": "A custom video player",
             "bodyText": "- Build a custom video player using HTML, CSS, and JavaScript, including features like play/pause, volume control, and progress bar ",
             "links": [{
                 "text": "GitHub",
-                "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+                "href": "https://github.com/OndigoWendy"
             }],
             "tags": [
                 "HTML",

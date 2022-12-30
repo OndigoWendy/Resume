@@ -82,9 +82,9 @@ const styles = {
         </div>
         <Social />
       </div>
-      <div>
+      {/* <div>
         {renderMap()}
-      </div>
+      </div> */}
     </Fade>
   ) : <FallbackSpinner />;
           }
