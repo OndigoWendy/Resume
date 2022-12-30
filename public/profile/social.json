@@ -1,0 +1,15 @@
+{
+    "social": [{
+            "network": "linkedin",
+            "href": "https://www.linkedin.com/in/wendy-ondigo-993037181/"
+        },
+        {
+            "network": "github",
+            "href": "https://github.com/OndigoWendy"
+        },
+        {
+            "network": "email",
+            "href": "wendyondigo99@gmail.com"
+        }
+    ]
+}

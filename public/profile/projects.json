@@ -1,0 +1,157 @@
+{
+    "projects": [{
+            "image": "images/projects/portfolio-poster.png",
+            "title": "Responsive Website",
+            "bodyText": "Created a website that is fully responsive across different devices and screen sizes using CSS media queries and a mobile-first approach.",
+            "links": [{
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://mayankagarwal.me"
+                }
+            ],
+            "tags": [
+                "CSS",
+                "HTML",
+                "Responsive Design"
+            ]
+        },
+        {
+            "image": "images/projects/caaring-poster.png",
+            "title": "Single Page Application",
+            "bodyText": "- Built a single page application using React and Redux for state management. Implemented routing using React Router.",
+            "links": [{
+                    "text": "Github",
+                    "href": "https://github.com/mayankagarwal09/Caaring"
+                },
+                {
+                    "text": "Live",
+                    "href": "http://caaring.herokuapp.com"
+                }
+            ],
+            "tags": [
+                "React",
+                "Redux",
+                "Routing"
+            ]
+        },
+        {
+            "image": "images/projects/quiet-hours-poster.jpg",
+            "title": "Accessibility Audit",
+            "bodyText": "- Conducted an accessibility audit of a client's website and provided recommendations for improvements. Utilized tools such as Lighthouse and aXe to identify and fix accessibility issues.",
+            "links": [{
+                "text": "GitHub",
+                "href": "https://github.com/mayankagarwal09/QuietHours-Android"
+            }],
+            "tags": [
+                "Accessibilty",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "image": "images/projects/quiet-hours-poster.jpg",
+            "title": "GraphQL API",
+            "bodyText": "- An Android App that allows users to send texts in real time.\n - End to End encryption using **RSA** Algorithm.\n - Uses **Firebase** database to store texts.\n - Secured with **Fingerprint** lock.",
+            "links": [{
+                "text": "GitHub",
+                "href": "https://github.com/mayankagarwal09/SecureChatApp"
+            }],
+            "tags": [
+                "GraphQL",
+                "Node.js",
+                "MongoDB",
+                "JWT"
+            ]
+        },
+        {
+            "image": "images/projects/quiet-hours-poster.jpg",
+            "title": "Data Visualization",
+            "bodyText": "Created a data visualization using D3.js to display data in a visually appealing and interactive way.",
+            "links": [{
+                "text": "GitHub",
+                "href": "https://github.com/mayankagarwal09/mvvm-sample-app"
+            }],
+            "tags": [
+                "D3.js",
+                "Data Visualization",
+                "JavaScript"
+            ]
+        },
+        {
+            "image": "images/projects/quiet-hours-poster.jpg",
+            "title": "A single page application",
+            "bodyText": "- Create a single page application that loads different content dynamically without refreshing the page",
+            "links": [{
+                "text": "GitHub",
+                "href": "https://github.com/mayankagarwal09/Paginated-App-Feeds-List"
+            }],
+            "tags": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "AJAX",
+                "API Integration"
+            ]
+        },
+        {
+            "image": "images/projects/quiet-hours-poster.jpg",
+            "title": "A mobile app prototype",
+            "bodyText": "-Design and build a prototype for a mobile app using a tool like Figma or Adobe XD",
+            "links": [{
+                "text": "GitHub",
+                "href": "https://github.com/mayankagarwal09/task-tracker-app"
+            }],
+            "tags": [
+                "UI/UX design",
+                "Prototyping tools"
+            ]
+        },
+        {
+            "image": "images/projects/quiet-hours-poster.jpg",
+            "title": "A form validation script",
+            "bodyText": "- Write a JavaScript script that checks for errors in a form submission and displays error messages to the user",
+            "links": [{
+                "text": "GitHub",
+                "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+            }],
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Form validation"
+            ]
+        },
+        {
+            "image": "images/projects/quiet-hours-poster.jpg",
+            "title": "A website with accessible design",
+            "bodyText": "- Design and develop a website with accessibility in mind, following principles such as proper use of semantic HTML and high contrast color schemes",
+            "links": [{
+                "text": "GitHub",
+                "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+            }],
+            "tags": [
+                "HTML",
+                "CSS",
+                "Accessibilty best practices"
+            ]
+        },
+        {
+            "image": "images/projects/quiet-hours-poster.jpg",
+            "title": "A custom video player",
+            "bodyText": "- Build a custom video player using HTML, CSS, and JavaScript, including features like play/pause, volume control, and progress bar ",
+            "links": [{
+                "text": "GitHub",
+                "href": "https://github.com/mayankagarwal09/img-encrypt-sdes"
+            }],
+            "tags": [
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "Video API"
+            ]
+        }
+    ]
+}

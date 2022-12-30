@@ -1,0 +1,26 @@
+{
+    "education": [{
+            "title": "April 2021 - Nov 2021",
+            "cardTitle": "Software Engineering",
+            "cardSubtitle": "Moringa School",
+            "cardDetailedText": " Web and Mobile development",
+            "icon": {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        }, {
+            "title": "Sept 2018 - Dec 2022",
+            "cardTitle": "B.Sc, Telecommunication and Information technology",
+            "cardSubtitle": "Kenyatta University",
+            "cardDetailedText": "CGPA - 3.7/4.0",
+            "icon": {
+                "src": "images/education/lorem-ipsum.png"
+            }
+        },
+        {
+            "title": "2014 - 2017",
+            "cardTitle": "KCSE",
+            "cardSubtitle": "KGHS",
+            "cardDetailedText": "A-"
+        }
+    ]
+}

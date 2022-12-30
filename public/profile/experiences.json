@@ -1,0 +1,35 @@
+{
+    "experiences": [{
+            "title": "Software Engineer",
+            "subtitle": "Microsoft",
+            "workType": "Internship",
+            "workDescription": [
+                "Fixed a UI/UX related bug on the messages vertical in Microsoft Office and Bing to enable the display of attachment icon for messages from Outlook and Teams platforms.",
+                "Implemented a new live persona card feature on the Messages Vertical in Microsoft Office.",
+                "Reviewed the yammer API to ascertain its feasibility in implementing Microsoft’s new yammer vertical."
+            ],
+            "dateText": "07/2022 – 09/2022"
+        },
+        {
+            "title": "Application Developer",
+            "subtitle": "Kobby Technologies Limited",
+            "workType": "Apprenticeship",
+            "workDescription": [
+                "Recommended third - party tools and custom applications to clients.",
+                "Customized platforms to fulfill business requirements.",
+                "Collaborated with team members to understand business requirements and create clear technical specifications for clients."
+            ],
+            "dateText": "03/2022 – 05/2022"
+        },
+        {
+            "title": "Project Intern",
+            "subtitle": "KPMG",
+            "workType": "Internship",
+            "workDescription": [
+                "Consolidated hundreds of client’s data into precise excel documentation.",
+                "Performed a retention and destruction exercise for data relating to projects and clients of different departments in the organization."
+            ],
+            "dateText": "04/2019 – 06/2019"
+        }
+    ]
+}
