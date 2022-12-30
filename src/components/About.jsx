@@ -53,6 +53,18 @@ function About(props) {
               <Fade>
                 <Row>
                   <Col style={styles.introTextContainer}>
+                  <h2>Welcome to Wreno Technologies</h2>
+<p>We are a software development company that specializes in building custom software solutions for businesses of all sizes. Our team of experienced developers has a track record of delivering high-quality products that meet the specific needs of our clients.</p>
+<h3>Services</h3>
+<ul>
+<li>Web development</li>
+<li>Mobile app development</li>
+<li>Custom software development</li>
+<li>Data analysis and visualization</li>
+<li>Software integration</li>
+</ul>
+<h3>Commitment to Quality</h3>
+<p>We are committed to delivering exceptional service to our clients and pride ourselves on our ability to deliver high-quality products on time and on budget.</p>
                     {parseIntro(data.about)}
                   </Col>
                   <Col style={styles.introImageContainer}>
